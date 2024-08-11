@@ -1,0 +1,7 @@
+id=GSI SMS fix for Samsung Galaxy A15 / A24
+name=GSI-SMS-A15-A24
+version=v1
+versionCode=1
+author=MY♡90
+description=Samsung updated RIL inside Android 14.0 vendor while it wasn't updated within GSI ROMs so we need to revert back to Android 13.0 RIL
+template=3
